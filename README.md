@@ -1,16 +1,47 @@
-# React + Vite
+# SURA Restaurant 🍽️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **Modern Dining Redefined.** Experience a symphony of exquisite flavors in a luxurious atmosphere.
 
-Currently, two official plugins are available:
+![Sura Banner](public/assets/images/541423101_122117473772955120_3533837442095353725_n.jpg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Our Atmosphere
 
-## React Compiler
+SURA offers a premium dining experience where architectural elegance meets culinary masterpiece. Our interior is designed to provide comfort and luxury, making every meal a celebration.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+| Elegance                                                                                   | Vibe                                                                                   | Detail                                                                                |
+| :----------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ |
+| ![Interior 1](public/assets/images/541651898_122117478710955120_2986338890182881825_n.jpg) | ![Vibe 1](public/assets/images/541484289_122117474348955120_8237584939082130099_n.jpg) | ![Detail 1](public/assets/images/542013727_122117407484955120_5403800622236925_n.jpg) |
 
-## Expanding the ESLint configuration
+## 🍣 Signature Menu
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Our menu is a curated collection of fusion and traditional favorites, prepared with the finest ingredients:
+
+- **Chef's Special Fried Rice**: A perfect blend of fragrance and flavor.
+- **Creamy Cheese Kottu**: The ultimate indulgence.
+- **Signature Butter Parota**: Flaky, buttery perfection.
+- **Authentic Egg Rotti**: Modern twist on a classic comfort food.
+
+## 🚀 Technical Setup
+
+This project is built with:
+
+- **React + Vite**
+- **Vanilla CSS**
+- **Framer Motion**
+
+### Development
+
+```bash
+npm install
+npm run dev
+```
+
+### Build
+
+```bash
+npm run build
+```
+
+---
+
+_Created for Dinuk Business Ideas._
